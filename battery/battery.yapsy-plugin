@@ -1,0 +1,8 @@
+[Core]
+Name = Battery
+Module = battery
+
+[Documentation]
+Author = Niels Højen
+Version = 1.0
+Website = https://github.com/nielshojen
